@@ -44,9 +44,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AndreM102&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=AndreM102&theme=juicyfresh&no-bg=true" />
 <!---
 AndreM102/AndreM102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
