@@ -11,6 +11,7 @@
 - ⚡ Fun fact: ...
 
 
+<!---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
@@ -47,7 +48,6 @@
 </p>
 <br><br><br><br><br>
 
-<!---
 AndreM102/AndreM102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
