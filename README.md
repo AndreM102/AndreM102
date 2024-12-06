@@ -43,7 +43,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreM102&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndreM102&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AndreM102&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Polymath1108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 <br><br><br><br><br>
